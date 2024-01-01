@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/woodcurl/static/css/main.d3141a9e.css",
-    "main.js": "/woodcurl/static/js/main.89344e50.js",
+    "main.js": "/woodcurl/static/js/main.2f05c08f.js",
     "static/js/787.49c3f8c6.chunk.js": "/woodcurl/static/js/787.49c3f8c6.chunk.js",
     "static/media/drob5.jpg": "/woodcurl/static/media/drob5.aa3b3516ed6751f2dcf5.jpg",
     "static/media/table2.jpg": "/woodcurl/static/media/table2.d0c672e2c57153a94ca1.jpg",
@@ -93,11 +93,11 @@
     "static/media/regbg.jpg": "/woodcurl/static/media/regbg.0582c98292a0d16f90ca.jpg",
     "index.html": "/woodcurl/index.html",
     "main.d3141a9e.css.map": "/woodcurl/static/css/main.d3141a9e.css.map",
-    "main.89344e50.js.map": "/woodcurl/static/js/main.89344e50.js.map",
+    "main.2f05c08f.js.map": "/woodcurl/static/js/main.2f05c08f.js.map",
     "787.49c3f8c6.chunk.js.map": "/woodcurl/static/js/787.49c3f8c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3141a9e.css",
-    "static/js/main.89344e50.js"
+    "static/js/main.2f05c08f.js"
   ]
 }
